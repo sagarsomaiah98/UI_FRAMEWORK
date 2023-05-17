@@ -1,0 +1,21 @@
+package testCases;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import testBase.TestBase;
+
+public class LoginTest extends TestBase {
+	
+	
+	@Test
+	public void verifyValidLogin() throws IOException {
+		
+		intialize();
+		
+		
+		
+	}
+
+}

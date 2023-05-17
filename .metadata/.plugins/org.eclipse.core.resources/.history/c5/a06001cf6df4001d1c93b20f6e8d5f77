@@ -1,0 +1,28 @@
+package pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import testBase.TestBase;
+
+public class LoginPage extends TestBase {
+	
+	public WebElement myAccount=driver.findElement(By.xpath("//a[@title='My Account']"));
+	public WebElement loginMenu=driver.findElement(By.xpath("//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']"));
+	public WebElement email=driver.findElement(By.xpath("//input[@id='input-email']"));
+	public WebElement password=driver.findElement(By.xpath("//input[@id='input-password']"));
+	public WebElement loginButton=driver.findElement(By.xpath("//input[@value='Login']"));
+	
+	
+	
+	public void login(String uname, String pwd) {
+		
+		myAccount.click();
+		loginMenu.click();
+		email.sendKeys(uname);
+		password.sendKeys(pwd);
+		loginButton.click();
+	}
+
+
+}

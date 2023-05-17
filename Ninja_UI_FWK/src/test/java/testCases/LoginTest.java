@@ -1,0 +1,23 @@
+package testCases;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import pages.LoginPage;
+import testBase.TestBase;
+
+public class LoginTest extends TestBase {
+	
+	
+	@Test
+	public void verifyValidLogin() throws IOException, InterruptedException {
+		
+		intialize();
+		LoginPage l = new LoginPage();
+		l.login("amotoori3@gmail.com", "12345");
+		
+		
+	}
+
+}
