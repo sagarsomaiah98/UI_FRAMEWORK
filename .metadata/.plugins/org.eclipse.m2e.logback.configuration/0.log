@@ -1,0 +1,336 @@
+2023-05-17 00:05:05,733 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-17 00:06:20,227 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\pom.xml
+2023-05-17 00:06:25,708 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ninja_UI_FWK:Ninja_UI_FWK:0.0.1-SNAPSHOT @ S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\pom.xml.
+2023-05-17 00:06:27,210 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_UI_FWK/src/main/java
+2023-05-17 00:06:27,222 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ninja_UI_FWK/src/test/java
+2023-05-17 00:06:28,787 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-05-17 00:06:29,625 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:29,625 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:06:29,627 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:29,628 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:06:41,551 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:41,551 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:06:41,553 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:41,553 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:06:45,985 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:45,986 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:06:45,988 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:06:45,988 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:07:56,245 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ninja_UI_FWK:Ninja_UI_FWK:0.0.1-SNAPSHOT @ S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\pom.xml.
+2023-05-17 00:07:58,558 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.9.1/selenium-java-4.9.1-sources.jar
+2023-05-17 00:07:58,687 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/4.9.1/selenium-java-4.9.1-sources.jar
+2023-05-17 00:07:58,694 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-java:4.9.1
+2023-05-17 00:07:58,925 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.9.1/selenium-api-4.9.1-sources.jar
+2023-05-17 00:07:59,152 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/4.9.1/selenium-api-4.9.1-sources.jar
+2023-05-17 00:07:59,165 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:4.9.1
+2023-05-17 00:07:59,408 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.9.1/selenium-chrome-driver-4.9.1-sources.jar
+2023-05-17 00:07:59,683 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/4.9.1/selenium-chrome-driver-4.9.1-sources.jar
+2023-05-17 00:07:59,690 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chrome-driver:4.9.1
+2023-05-17 00:07:59,908 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.9.1/selenium-chromium-driver-4.9.1-sources.jar
+2023-05-17 00:08:00,298 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chromium-driver/4.9.1/selenium-chromium-driver-4.9.1-sources.jar
+2023-05-17 00:08:00,303 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chromium-driver:4.9.1
+2023-05-17 00:08:00,514 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-json/4.9.1/selenium-json-4.9.1-sources.jar
+2023-05-17 00:08:01,050 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-json/4.9.1/selenium-json-4.9.1-sources.jar
+2023-05-17 00:08:01,061 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-json:4.9.1
+2023-05-17 00:08:01,300 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-manager/4.9.1/selenium-manager-4.9.1-sources.jar
+2023-05-17 00:08:01,557 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-manager/4.9.1/selenium-manager-4.9.1-sources.jar
+2023-05-17 00:08:01,575 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-manager:4.9.1
+2023-05-17 00:08:01,805 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v111/4.9.1/selenium-devtools-v111-4.9.1-sources.jar
+2023-05-17 00:08:02,153 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v111/4.9.1/selenium-devtools-v111-4.9.1-sources.jar
+2023-05-17 00:08:02,159 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-devtools-v111:4.9.1
+2023-05-17 00:08:02,378 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v112/4.9.1/selenium-devtools-v112-4.9.1-sources.jar
+2023-05-17 00:08:02,702 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v112/4.9.1/selenium-devtools-v112-4.9.1-sources.jar
+2023-05-17 00:08:02,708 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-devtools-v112:4.9.1
+2023-05-17 00:08:02,934 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v113/4.9.1/selenium-devtools-v113-4.9.1-sources.jar
+2023-05-17 00:08:03,028 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:08:03,028 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:08:03,031 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:08:03,031 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:08:03,293 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v113/4.9.1/selenium-devtools-v113-4.9.1-sources.jar
+2023-05-17 00:08:03,298 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-devtools-v113:4.9.1
+2023-05-17 00:08:03,576 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v85/4.9.1/selenium-devtools-v85-4.9.1-sources.jar
+2023-05-17 00:08:03,899 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-devtools-v85/4.9.1/selenium-devtools-v85-4.9.1-sources.jar
+2023-05-17 00:08:03,919 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-devtools-v85:4.9.1
+2023-05-17 00:08:04,155 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.9.1/selenium-edge-driver-4.9.1-sources.jar
+2023-05-17 00:08:04,462 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/4.9.1/selenium-edge-driver-4.9.1-sources.jar
+2023-05-17 00:08:04,470 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-edge-driver:4.9.1
+2023-05-17 00:08:04,732 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.9.1/selenium-firefox-driver-4.9.1-sources.jar
+2023-05-17 00:08:05,223 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/4.9.1/selenium-firefox-driver-4.9.1-sources.jar
+2023-05-17 00:08:05,229 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-firefox-driver:4.9.1
+2023-05-17 00:08:05,451 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-http/4.9.1/selenium-http-4.9.1-sources.jar
+2023-05-17 00:08:06,074 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-http/4.9.1/selenium-http-4.9.1-sources.jar
+2023-05-17 00:08:06,100 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-http:4.9.1
+2023-05-17 00:08:06,336 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.9.1/selenium-ie-driver-4.9.1-sources.jar
+2023-05-17 00:08:06,637 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/4.9.1/selenium-ie-driver-4.9.1-sources.jar
+2023-05-17 00:08:06,664 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-ie-driver:4.9.1
+2023-05-17 00:08:06,888 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.9.1/selenium-remote-driver-4.9.1-sources.jar
+2023-05-17 00:08:07,210 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/4.9.1/selenium-remote-driver-4.9.1-sources.jar
+2023-05-17 00:08:07,219 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-remote-driver:4.9.1
+2023-05-17 00:08:07,462 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.91.Final/netty-buffer-4.1.91.Final-sources.jar
+2023-05-17 00:08:07,708 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.91.Final/netty-buffer-4.1.91.Final-sources.jar
+2023-05-17 00:08:07,717 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.91.Final
+2023-05-17 00:08:07,954 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.91.Final/netty-codec-http-4.1.91.Final-sources.jar
+2023-05-17 00:08:08,287 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.91.Final/netty-codec-http-4.1.91.Final-sources.jar
+2023-05-17 00:08:08,307 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.91.Final
+2023-05-17 00:08:08,514 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.91.Final/netty-codec-4.1.91.Final-sources.jar
+2023-05-17 00:08:08,764 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.91.Final/netty-codec-4.1.91.Final-sources.jar
+2023-05-17 00:08:08,773 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.91.Final
+2023-05-17 00:08:09,000 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.91.Final/netty-handler-4.1.91.Final-sources.jar
+2023-05-17 00:08:09,279 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.91.Final/netty-handler-4.1.91.Final-sources.jar
+2023-05-17 00:08:09,287 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.91.Final
+2023-05-17 00:08:09,505 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.91.Final/netty-common-4.1.91.Final-sources.jar
+2023-05-17 00:08:09,889 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.91.Final/netty-common-4.1.91.Final-sources.jar
+2023-05-17 00:08:09,913 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.91.Final
+2023-05-17 00:08:10,139 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.91.Final/netty-transport-classes-epoll-4.1.91.Final-sources.jar
+2023-05-17 00:08:10,321 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.91.Final/netty-transport-classes-epoll-4.1.91.Final-sources.jar
+2023-05-17 00:08:10,329 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.91.Final
+2023-05-17 00:08:10,570 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.91.Final/netty-transport-classes-kqueue-4.1.91.Final-sources.jar
+2023-05-17 00:08:10,746 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.91.Final/netty-transport-classes-kqueue-4.1.91.Final-sources.jar
+2023-05-17 00:08:10,802 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-kqueue:4.1.91.Final
+2023-05-17 00:08:11,054 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.91.Final/netty-transport-native-epoll-4.1.91.Final-sources.jar
+2023-05-17 00:08:11,317 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.91.Final/netty-transport-native-epoll-4.1.91.Final-sources.jar
+2023-05-17 00:08:11,324 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.91.Final
+2023-05-17 00:08:11,550 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.91.Final/netty-transport-native-kqueue-4.1.91.Final-sources.jar
+2023-05-17 00:08:11,787 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-kqueue/4.1.91.Final/netty-transport-native-kqueue-4.1.91.Final-sources.jar
+2023-05-17 00:08:11,795 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-kqueue:4.1.91.Final
+2023-05-17 00:08:12,027 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.91.Final/netty-transport-native-unix-common-4.1.91.Final-sources.jar
+2023-05-17 00:08:12,199 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.91.Final/netty-transport-native-unix-common-4.1.91.Final-sources.jar
+2023-05-17 00:08:12,262 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.91.Final
+2023-05-17 00:08:12,491 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.91.Final/netty-transport-4.1.91.Final-sources.jar
+2023-05-17 00:08:12,770 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.91.Final/netty-transport-4.1.91.Final-sources.jar
+2023-05-17 00:08:12,779 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.91.Final
+2023-05-17 00:08:13,007 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.91.Final/netty-resolver-4.1.91.Final-sources.jar
+2023-05-17 00:08:13,384 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.91.Final/netty-resolver-4.1.91.Final-sources.jar
+2023-05-17 00:08:13,409 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.91.Final
+2023-05-17 00:08:13,625 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api/1.25.0/opentelemetry-api-1.25.0-sources.jar
+2023-05-17 00:08:13,808 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api/1.25.0/opentelemetry-api-1.25.0-sources.jar
+2023-05-17 00:08:13,815 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-api:1.25.0
+2023-05-17 00:08:14,054 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-context/1.25.0/opentelemetry-context-1.25.0-sources.jar
+2023-05-17 00:08:14,561 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-context/1.25.0/opentelemetry-context-1.25.0-sources.jar
+2023-05-17 00:08:14,570 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-context:1.25.0
+2023-05-17 00:08:14,834 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-exporter-logging/1.25.0/opentelemetry-exporter-logging-1.25.0-sources.jar
+2023-05-17 00:08:15,154 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-exporter-logging/1.25.0/opentelemetry-exporter-logging-1.25.0-sources.jar
+2023-05-17 00:08:15,161 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-exporter-logging:1.25.0
+2023-05-17 00:08:15,378 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-metrics/1.25.0/opentelemetry-sdk-metrics-1.25.0-sources.jar
+2023-05-17 00:08:15,573 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-metrics/1.25.0/opentelemetry-sdk-metrics-1.25.0-sources.jar
+2023-05-17 00:08:15,611 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-metrics:1.25.0
+2023-05-17 00:08:15,817 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-logs/1.25.0-alpha/opentelemetry-sdk-logs-1.25.0-alpha-sources.jar
+2023-05-17 00:08:16,400 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-logs/1.25.0-alpha/opentelemetry-sdk-logs-1.25.0-alpha-sources.jar
+2023-05-17 00:08:16,406 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-logs:1.25.0-alpha
+2023-05-17 00:08:16,641 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api-logs/1.25.0-alpha/opentelemetry-api-logs-1.25.0-alpha-sources.jar
+2023-05-17 00:08:16,919 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api-logs/1.25.0-alpha/opentelemetry-api-logs-1.25.0-alpha-sources.jar
+2023-05-17 00:08:16,927 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-api-logs:1.25.0-alpha
+2023-05-17 00:08:17,139 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api-events/1.25.0-alpha/opentelemetry-api-events-1.25.0-alpha-sources.jar
+2023-05-17 00:08:17,350 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api-events/1.25.0-alpha/opentelemetry-api-events-1.25.0-alpha-sources.jar
+2023-05-17 00:08:17,357 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-api-events:1.25.0-alpha
+2023-05-17 00:08:17,568 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-common/1.25.0/opentelemetry-sdk-common-1.25.0-sources.jar
+2023-05-17 00:08:18,064 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-common/1.25.0/opentelemetry-sdk-common-1.25.0-sources.jar
+2023-05-17 00:08:18,128 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-common:1.25.0
+2023-05-17 00:08:18,353 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.25.0/opentelemetry-sdk-extension-autoconfigure-spi-1.25.0-sources.jar
+2023-05-17 00:08:18,698 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.25.0/opentelemetry-sdk-extension-autoconfigure-spi-1.25.0-sources.jar
+2023-05-17 00:08:18,723 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.25.0
+2023-05-17 00:08:18,938 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.25.0-alpha/opentelemetry-sdk-extension-autoconfigure-1.25.0-alpha-sources.jar
+2023-05-17 00:08:19,388 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.25.0-alpha/opentelemetry-sdk-extension-autoconfigure-1.25.0-alpha-sources.jar
+2023-05-17 00:08:19,398 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.25.0-alpha
+2023-05-17 00:08:19,642 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-trace/1.25.0/opentelemetry-sdk-trace-1.25.0-sources.jar
+2023-05-17 00:08:19,865 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-trace/1.25.0/opentelemetry-sdk-trace-1.25.0-sources.jar
+2023-05-17 00:08:19,874 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk-trace:1.25.0
+2023-05-17 00:08:20,078 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk/1.25.0/opentelemetry-sdk-1.25.0-sources.jar
+2023-05-17 00:08:20,221 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk/1.25.0/opentelemetry-sdk-1.25.0-sources.jar
+2023-05-17 00:08:20,231 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-sdk:1.25.0
+2023-05-17 00:08:20,457 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-semconv/1.25.0-alpha/opentelemetry-semconv-1.25.0-alpha-sources.jar
+2023-05-17 00:08:20,651 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-semconv/1.25.0-alpha/opentelemetry-semconv-1.25.0-alpha-sources.jar
+2023-05-17 00:08:20,660 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.opentelemetry:opentelemetry-semconv:1.25.0-alpha
+2023-05-17 00:08:20,940 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4-sources.jar
+2023-05-17 00:08:21,413 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4-sources.jar
+2023-05-17 00:08:21,435 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.14.4
+2023-05-17 00:08:21,658 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.9.1/selenium-safari-driver-4.9.1-sources.jar
+2023-05-17 00:08:21,963 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/4.9.1/selenium-safari-driver-4.9.1-sources.jar
+2023-05-17 00:08:21,971 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-safari-driver:4.9.1
+2023-05-17 00:08:22,189 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.9.1/selenium-support-4.9.1-sources.jar
+2023-05-17 00:08:22,367 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/4.9.1/selenium-support-4.9.1-sources.jar
+2023-05-17 00:08:22,374 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-support:4.9.1
+2023-05-17 00:08:22,800 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:08:22,800 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:08:22,801 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:08:22,802 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:09:34,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:34,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:09:34,614 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:34,614 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:09:46,029 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:46,029 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:09:46,031 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:46,032 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:09:53,737 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:53,737 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:09:53,738 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:09:53,739 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:10:00,488 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:00,488 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:10:00,491 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:00,491 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:10:19,140 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:19,140 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:10:19,143 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:19,143 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:10:27,978 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:27,978 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:10:27,981 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:27,981 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:10:40,970 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:40,970 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:10:40,972 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:40,972 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:10:57,879 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:57,879 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:10:57,881 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:10:57,881 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:12:15,364 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:15,365 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:12:15,369 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:15,369 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:12:16,450 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:16,451 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:12:16,452 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:16,453 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:12:38,914 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:38,915 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:12:38,918 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:12:38,918 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:14:21,193 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:14:21,193 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:14:21,197 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:14:21,197 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:14:38,479 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:14:38,479 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:14:38,481 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:14:38,481 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:16:16,607 [Worker-14: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:16,610 [Worker-14: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:16:16,613 [Worker-14: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:16,613 [Worker-14: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:16:27,154 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:27,154 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:16:27,156 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:27,156 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:16:36,323 [Worker-24: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:36,323 [Worker-24: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:16:36,325 [Worker-24: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:16:36,325 [Worker-24: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:17:57,389 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:17:57,389 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:17:57,392 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:17:57,392 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:18:46,073 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:18:46,073 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:18:46,074 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:18:46,075 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:18:53,372 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:18:53,372 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:18:53,374 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:18:53,374 [Worker-25: Launching ReadProperty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:19:32,275 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:19:32,275 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:19:32,277 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:19:32,278 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:25:31,610 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:25:31,610 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:25:31,611 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:25:31,612 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:26:13,705 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:26:13,705 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:26:13,707 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:26:13,707 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:26:49,477 [Worker-26: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:26:49,477 [Worker-26: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:26:49,479 [Worker-26: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:26:49,479 [Worker-26: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:27:41,299 [Worker-14: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:27:41,299 [Worker-14: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:27:41,301 [Worker-14: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:27:41,301 [Worker-14: Launching LaunchBrowser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:28:09,103 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:28:09,104 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:28:09,106 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:28:09,106 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:30:25,109 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:30:25,110 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:30:25,111 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:30:25,111 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:30:39,406 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:30:39,406 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:30:39,408 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:30:39,408 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:31:29,349 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:29,349 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:31:29,351 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:29,351 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:31:42,319 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:42,319 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:31:42,321 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:42,322 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:31:54,240 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:54,240 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:31:54,242 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:31:54,242 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:38:30,834 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:38:30,834 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:38:30,836 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:38:30,836 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:39:49,726 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:39:49,727 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:39:49,728 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:39:49,729 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:40:12,735 [Worker-28: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:40:12,735 [Worker-28: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:40:12,737 [Worker-28: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:40:12,737 [Worker-28: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:41:20,446 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:41:20,446 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:41:20,448 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:41:20,448 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:43:54,659 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:43:54,659 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:43:54,660 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:43:54,661 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:46:38,227 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:46:38,227 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:46:38,228 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:46:38,229 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:48:18,974 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:48:18,975 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:48:18,976 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:48:18,977 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:49:12,503 [Worker-25: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:49:12,503 [Worker-25: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:49:12,504 [Worker-25: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:49:12,505 [Worker-25: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:50:01,801 [Worker-29: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:50:01,801 [Worker-29: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:50:01,803 [Worker-29: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:50:01,803 [Worker-29: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:50:44,211 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:50:44,212 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:50:44,213 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:50:44,214 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:51:02,183 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:51:02,183 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:51:02,185 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:51:02,185 [Worker-25: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:54:55,068 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:54:55,068 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:54:55,069 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:54:55,069 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:55:40,247 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:55:40,247 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:55:40,249 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:55:40,249 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:56:03,123 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:56:03,124 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:56:03,125 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:56:03,125 [Worker-22: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
+2023-05-17 00:56:41,252 [Worker-30: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:56:41,252 [Worker-30: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\main\resources
+2023-05-17 00:56:41,254 [Worker-30: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 00:56:41,254 [Worker-30: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\TUHEL\UI_FRAMEWORK\Ninja_UI_FWK\src\test\resources
